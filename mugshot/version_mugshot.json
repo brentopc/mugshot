@@ -1,0 +1,7 @@
+{
+    "version": "1.0",
+    "check_url": "https://raw.githubusercontent.com/brentopc/mugshot/master/mugshot/version_mugshot.json",
+    "download_url": "https://github.com/brentopc/mugshot/",
+    "configVersion": "1.0",
+    "pluginDepends": [{ "name": "mugshot", "version": "1.0", "critical": true }]
+}
